@@ -1,0 +1,8 @@
+C:\Users\Roxana\Desktop\Endava\Bogdan 3-4\Project de pe Git Bogdan\foodpal-orders-mocks\src\FoodPal.Orders.Mock.Dtos\bin\Debug\netstandard2.0\FoodPal.Orders.Mock.Dtos.deps.json
+C:\Users\Roxana\Desktop\Endava\Bogdan 3-4\Project de pe Git Bogdan\foodpal-orders-mocks\src\FoodPal.Orders.Mock.Dtos\bin\Debug\netstandard2.0\FoodPal.Orders.Mock.Dtos.dll
+C:\Users\Roxana\Desktop\Endava\Bogdan 3-4\Project de pe Git Bogdan\foodpal-orders-mocks\src\FoodPal.Orders.Mock.Dtos\bin\Debug\netstandard2.0\FoodPal.Orders.Mock.Dtos.pdb
+C:\Users\Roxana\Desktop\Endava\Bogdan 3-4\Project de pe Git Bogdan\foodpal-orders-mocks\src\FoodPal.Orders.Mock.Dtos\obj\Debug\netstandard2.0\FoodPal.Orders.Mock.Dtos.AssemblyInfoInputs.cache
+C:\Users\Roxana\Desktop\Endava\Bogdan 3-4\Project de pe Git Bogdan\foodpal-orders-mocks\src\FoodPal.Orders.Mock.Dtos\obj\Debug\netstandard2.0\FoodPal.Orders.Mock.Dtos.AssemblyInfo.cs
+C:\Users\Roxana\Desktop\Endava\Bogdan 3-4\Project de pe Git Bogdan\foodpal-orders-mocks\src\FoodPal.Orders.Mock.Dtos\obj\Debug\netstandard2.0\FoodPal.Orders.Mock.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\Roxana\Desktop\Endava\Bogdan 3-4\Project de pe Git Bogdan\foodpal-orders-mocks\src\FoodPal.Orders.Mock.Dtos\obj\Debug\netstandard2.0\FoodPal.Orders.Mock.Dtos.dll
+C:\Users\Roxana\Desktop\Endava\Bogdan 3-4\Project de pe Git Bogdan\foodpal-orders-mocks\src\FoodPal.Orders.Mock.Dtos\obj\Debug\netstandard2.0\FoodPal.Orders.Mock.Dtos.pdb

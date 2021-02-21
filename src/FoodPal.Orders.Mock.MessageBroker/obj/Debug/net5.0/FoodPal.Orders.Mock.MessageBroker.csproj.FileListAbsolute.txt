@@ -1,0 +1,11 @@
+C:\Users\Roxana\Desktop\Endava\Bogdan 3-4\Project de pe Git Bogdan\foodpal-orders-mocks\src\FoodPal.Orders.Mock.MessageBroker\bin\Debug\net5.0\FoodPal.Orders.Mock.MessageBroker.deps.json
+C:\Users\Roxana\Desktop\Endava\Bogdan 3-4\Project de pe Git Bogdan\foodpal-orders-mocks\src\FoodPal.Orders.Mock.MessageBroker\bin\Debug\net5.0\FoodPal.Orders.Mock.MessageBroker.dll
+C:\Users\Roxana\Desktop\Endava\Bogdan 3-4\Project de pe Git Bogdan\foodpal-orders-mocks\src\FoodPal.Orders.Mock.MessageBroker\bin\Debug\net5.0\ref\FoodPal.Orders.Mock.MessageBroker.dll
+C:\Users\Roxana\Desktop\Endava\Bogdan 3-4\Project de pe Git Bogdan\foodpal-orders-mocks\src\FoodPal.Orders.Mock.MessageBroker\bin\Debug\net5.0\FoodPal.Orders.Mock.MessageBroker.pdb
+C:\Users\Roxana\Desktop\Endava\Bogdan 3-4\Project de pe Git Bogdan\foodpal-orders-mocks\src\FoodPal.Orders.Mock.MessageBroker\obj\Debug\net5.0\FoodPal.Orders.Mock.MessageBroker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roxana\Desktop\Endava\Bogdan 3-4\Project de pe Git Bogdan\foodpal-orders-mocks\src\FoodPal.Orders.Mock.MessageBroker\obj\Debug\net5.0\FoodPal.Orders.Mock.MessageBroker.AssemblyInfoInputs.cache
+C:\Users\Roxana\Desktop\Endava\Bogdan 3-4\Project de pe Git Bogdan\foodpal-orders-mocks\src\FoodPal.Orders.Mock.MessageBroker\obj\Debug\net5.0\FoodPal.Orders.Mock.MessageBroker.AssemblyInfo.cs
+C:\Users\Roxana\Desktop\Endava\Bogdan 3-4\Project de pe Git Bogdan\foodpal-orders-mocks\src\FoodPal.Orders.Mock.MessageBroker\obj\Debug\net5.0\FoodPal.Orders.Mock.MessageBroker.csproj.CoreCompileInputs.cache
+C:\Users\Roxana\Desktop\Endava\Bogdan 3-4\Project de pe Git Bogdan\foodpal-orders-mocks\src\FoodPal.Orders.Mock.MessageBroker\obj\Debug\net5.0\FoodPal.Orders.Mock.MessageBroker.dll
+C:\Users\Roxana\Desktop\Endava\Bogdan 3-4\Project de pe Git Bogdan\foodpal-orders-mocks\src\FoodPal.Orders.Mock.MessageBroker\obj\Debug\net5.0\ref\FoodPal.Orders.Mock.MessageBroker.dll
+C:\Users\Roxana\Desktop\Endava\Bogdan 3-4\Project de pe Git Bogdan\foodpal-orders-mocks\src\FoodPal.Orders.Mock.MessageBroker\obj\Debug\net5.0\FoodPal.Orders.Mock.MessageBroker.pdb
